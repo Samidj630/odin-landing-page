@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}   
+    
+body{
+    font-family: Roboto, sans-serif;
+}
+.hero{
+    background: #1F2937;
+    padding: 16px 0 64px;
+}
+
+.header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav{
+    display: flex;
+    gap:16px;
+}
+
